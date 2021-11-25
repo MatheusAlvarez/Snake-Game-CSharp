@@ -80,6 +80,7 @@ namespace Snake
                 snake[front] = head;
                 visit[head.Location.Y / 20, head.Location.X / 20] = true;
                 Controls.Add(head);
+                //Mth
                 randomFood();
             }
             else
