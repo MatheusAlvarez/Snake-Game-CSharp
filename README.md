@@ -15,7 +15,6 @@ Game "Snake" desenvolvido em C#
 - C#
 
 # Autor
-
 Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
