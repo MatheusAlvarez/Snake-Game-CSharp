@@ -2,7 +2,6 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/LICENSE) 
 
 # Sobre o projeto
-
 Jogar: https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/Snake/bin/Debug/Snake.exe
 
 Game "Snake" desenvolvido em C#
