@@ -8,7 +8,6 @@ Game "Snake" desenvolvido em C#
 
 ## Layout do game
 ![Snake1](https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/_assets/snake0.PNG)
-
 ![Snake2](https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/_assets/snake1.PNG)
 
 # Tecnologias utilizadas
