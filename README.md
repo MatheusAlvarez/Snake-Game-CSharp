@@ -1,20 +1,19 @@
 # Snake-Game-C#
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/LICENSE) 
 
-# Sobre o projeto
-Jogar: https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/Snake/bin/Debug/Snake.exe
+# About the project
+🔗https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/Snake/bin/Debug/Snake.exe
 
-Game "Snake" desenvolvido em C#
+Game "Snake" developed in C#
 
-## Layout do game
+## 📌 Layout game
 ![Snake1](https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/_assets/snake0.PNG)
 ![Snake2](https://github.com/MatheusAlvarez/Snake-Game-CSharp/blob/main/_assets/snake1.PNG)
 
-# Tecnologias utilizadas
+# 📌 Technologies used
 - C#
 
-# Autor
-Matheus Maia Alvarez
+# 🕴️ Author
+   👨‍💻Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
-
